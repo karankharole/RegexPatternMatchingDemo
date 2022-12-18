@@ -1,0 +1,15 @@
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.csproj.AssemblyReference.cache
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.AssemblyInfoInputs.cache
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.AssemblyInfo.cs
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.csproj.CoreCompileInputs.cache
+D:\RegexPatternMatchingDemo\bin\Debug\net6.0\RegexPatternMatchingDemo.exe
+D:\RegexPatternMatchingDemo\bin\Debug\net6.0\RegexPatternMatchingDemo.deps.json
+D:\RegexPatternMatchingDemo\bin\Debug\net6.0\RegexPatternMatchingDemo.runtimeconfig.json
+D:\RegexPatternMatchingDemo\bin\Debug\net6.0\RegexPatternMatchingDemo.dll
+D:\RegexPatternMatchingDemo\bin\Debug\net6.0\RegexPatternMatchingDemo.pdb
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.dll
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\refint\RegexPatternMatchingDemo.dll
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.pdb
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\RegexPatternMatchingDemo.genruntimeconfig.cache
+D:\RegexPatternMatchingDemo\obj\Debug\net6.0\ref\RegexPatternMatchingDemo.dll
