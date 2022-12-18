@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("============= WELCOME TO USER REGISTRTION FORM ===================");
+            Console.WriteLine("============= WELCOME TO USER REGISTRTION FORM =================");
 
-            UserForm.userForm();
-            UserForm.userEmail();
-            UserForm.userMobile();
+            UserForm.userPassword();
+           // UserForm.userEmail();
+           // UserForm.userMobile();
         }
     }
 }
